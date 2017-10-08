@@ -3,15 +3,16 @@ Supplementary Materials for arXiv:1704.05840
 
 
 
-::::::::::::::::::::::::::::
-
-developed by jes^us fuentes
-email: jfuentes [at] fis.cinvestav.mx
+- - - - - - 
 
 last revision: 10.April.2017
 last retrieved: 7.October.2017
 
-::::::::::::::::::::::::::::
+developed by jes'us fuentes
+email: jfuentes [at] fis.cinvestav.mx
+
+- - - - - - 
+
 
 - - - - - - 
 1
