@@ -6,9 +6,11 @@ Supplementary Materials for arXiv:1704.05840
 - - - - - - 
 
 last revision: 10.April.2017
+
 last retrieved: 7.October.2017
 
 developed by jes'us fuentes
+
 email: jfuentes [at] fis.cinvestav.mx
 
 - - - - - - 
@@ -60,7 +62,7 @@ trajectory of the field.
 4
 - - - - - -
 
-use the files dropped in Floquet to
+use the files in Floquet to
 obtain the Ince–Strutt diagram related
 
 
