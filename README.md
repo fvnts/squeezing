@@ -2,9 +2,9 @@
 Supplementary Materials for arXiv:1704.05840
 
 -----
-> last revision:  10.April.2017
-> last retrieved: 7.October.2017
-> developed by j. fuentes
+> last revision: 10.April.2017 /
+> last retrieved: 7.October.2017 /
+> developed by j. fuentes /
 
 -----
 1
